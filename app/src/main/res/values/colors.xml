@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#19D3DA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorPrimaryLight">#E9F8F1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#373A40</color>
+    <color name="colorTrendingStart">#68F6FF</color>
+    <color name="colorTrendingEnd">#C4F9FD</color>
+    <color name="colorDivider">#D6D6D6</color>
+    <color name="colorSearchBackground">#373A40</color>
+    <color name="colorTextDesc">#686D76</color>
+    <color name="colorDark">#686D76</color>
+</resources>

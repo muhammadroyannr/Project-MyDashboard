@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DashboardRevisi</string>
+    <string name="mrp">MRp</string>
+    <string name="science">Science</string>
+    <string name="search_topic">Search Topic</string>
+    <string name="driver">Driver</string>
+    <string name="Environment" />
+    <string name="interior">Interior</string>
+    <string name="railyard">Railyard</string>
+    <string name="information">INFORMATION</string>
+    <string name="about_mrp">MRp Science is an application that provides knowledge about the world of simulator trainz in Indonesia.</string>
+    <string name="scenario">Scenario</string>
+</resources>
